@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Project by LuQman Virus
+          Project by LuQman Genius
         </a>
       </header>
     </div>
